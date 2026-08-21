@@ -1,95 +1,92 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="1040" viewBox="0 0 1600 1040" role="img" aria-labelledby="title desc">
-  <title id="title">Nua product family identity system</title>
-  <desc id="desc">A consistent lowercase n threshold mark with product-specific inner signals for NuaHome, NuaTalks, NuaConnects, NuaInforms and NuaCares.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1040" viewBox="0 0 1600 1040" role="img" aria-labelledby="title desc">
+  <title id="title">Nua Kinetic Link product family</title>
+  <desc id="desc">Six distinct Nua products connected by choice: NuaHome, NuaTalks, NuaInforms, NuaCares, NuaCreates and NuaInvests.</desc>
   <defs>
     <style>
-      .title{font:700 68px Inter,Arial,sans-serif;fill:#0b1216;letter-spacing:0}
-      .sub{font:400 26px Inter,Arial,sans-serif;fill:#516069;letter-spacing:0}
-      .name{font:700 34px Inter,Arial,sans-serif;fill:#0b1216;letter-spacing:0}
-      .role{font:400 19px Inter,Arial,sans-serif;fill:#617078;letter-spacing:0}
-      .nua{font-weight:750}.product{font-weight:450}
+      .title{font:400 68px Georgia,serif;fill:#092f38;letter-spacing:-2px}
+      .lead{font:400 23px Inter,Arial,sans-serif;fill:#52666b}
+      .name{font:700 30px Georgia,serif;fill:#092f38}
+      .role{font:800 12px Inter,Arial,sans-serif;letter-spacing:2px}
+      .detail{font:400 16px Inter,Arial,sans-serif;fill:#52666b}
+      .rule{stroke:#d7dedb;stroke-width:1}
     </style>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#092f38" flood-opacity=".08"/>
+    </filter>
   </defs>
 
-  <rect width="1600" height="1040" fill="#F3F5F2"/>
-  <text x="88" y="102" class="title">One Nua. Five clear roles.</text>
-  <text x="90" y="150" class="sub">The threshold stays fixed. The signal inside explains the product.</text>
+  <rect width="1600" height="1040" fill="#fbfaf6"/>
+  <circle cx="1460" cy="80" r="235" fill="none" stroke="#118f94" stroke-opacity=".10"/>
+  <circle cx="1460" cy="80" r="165" fill="none" stroke="#f2b544" stroke-opacity=".12"/>
+  <text x="80" y="104" class="role" fill="#118f94">OPEN · INTERLOCKED · IN MOTION</text>
+  <text x="80" y="184" class="title">One Nua. Six clear purposes.</text>
+  <text x="82" y="226" class="lead">Connected by choice. Distinct by purpose. Private data never crosses silently.</text>
 
-  <g transform="translate(90 215)">
-    <rect width="1420" height="252" rx="8" fill="#0B1216"/>
-    <path transform="translate(54 36) scale(1.42)" d="M24 104V39c0-10 12-15 19-8l8 8c8-9 19-14 31-14 23 0 40 18 40 42v37h-22V67c0-12-8-21-19-21-12 0-21 9-21 22v36H24Z" fill="#F6F3EC"/>
-    <circle cx="176" cy="130" r="11" fill="#FF6B5E"/>
-    <text x="325" y="116" fill="#F6F3EC" font-family="Inter,Arial,sans-serif" font-size="72" letter-spacing="0"><tspan font-weight="750">Nua</tspan><tspan font-weight="430">Home</tspan></text>
-    <text x="329" y="160" fill="#A8B7BD" font-family="Inter,Arial,sans-serif" font-size="24" letter-spacing="0">Master family mark and product wordmark grammar</text>
-    <g transform="translate(1110 45)">
-      <rect width="235" height="162" rx="8" fill="#F6F3EC"/>
-      <text x="24" y="48" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#0B1216">FIXED</text>
-      <text x="24" y="83" font-family="Inter,Arial,sans-serif" font-size="18" fill="#516069">n threshold</text>
-      <text x="24" y="111" font-family="Inter,Arial,sans-serif" font-size="18" fill="#516069">wordmark rhythm</text>
-      <text x="24" y="139" font-family="Inter,Arial,sans-serif" font-size="18" fill="#516069">graphite + white</text>
-    </g>
+  <g transform="translate(80 292)" filter="url(#shadow)">
+    <rect width="440" height="288" rx="24" fill="#fff"/>
+    <rect width="7" height="288" rx="4" fill="#118f94"/>
+    <image href="../assets/brand/nuahome-mark.svg" x="34" y="40" width="104" height="104"/>
+    <text x="165" y="72" class="role" fill="#118f94">AWARENESS</text>
+    <text x="165" y="116" class="name">NuaHome</text>
+    <line x1="34" y1="174" x2="406" y2="174" class="rule"/>
+    <text x="34" y="210" class="detail">Household intelligence</text>
+    <text x="34" y="242" class="detail">Rhythm · rooms · learning · care</text>
   </g>
 
-  <!-- NuaHome -->
-  <g transform="translate(90 520)">
-    <rect width="260" height="390" rx="8" fill="#FFFFFF"/>
-    <rect x="28" y="28" width="204" height="204" rx="8" fill="#0B1216"/>
-    <path transform="translate(48 48) scale(1.28)" d="M24 104V39c0-10 12-15 19-8l8 8c8-9 19-14 31-14 23 0 40 18 40 42v37h-22V67c0-12-8-21-19-21-12 0-21 9-21 22v36H24Z" fill="#F6F3EC"/>
-    <path transform="translate(48 48) scale(1.28)" d="M49 67 68 59v37l-19 8V67Z" fill="#18C998"/>
-    <g fill="#FF6B5E"><rect x="151" y="131" width="7" height="20" rx="3.5"/><rect x="163" y="122" width="7" height="38" rx="3.5"/><rect x="175" y="128" width="7" height="26" rx="3.5"/></g>
-    <text x="28" y="290" class="name"><tspan class="nua">Nua</tspan><tspan class="product">Home</tspan></text>
-    <text x="28" y="326" class="role">Home intelligence</text>
-    <text x="28" y="354" class="role">Door + voice signal</text>
+  <g transform="translate(580 292)" filter="url(#shadow)">
+    <rect width="440" height="288" rx="24" fill="#fff"/>
+    <rect width="7" height="288" rx="4" fill="#0767b5"/>
+    <image href="../assets/brand/nuatalks-mark.svg" x="34" y="40" width="104" height="104"/>
+    <text x="165" y="72" class="role" fill="#0767b5">PRIVATE SOCIAL</text>
+    <text x="165" y="116" class="name">NuaTalks</text>
+    <line x1="34" y1="174" x2="406" y2="174" class="rule"/>
+    <text x="34" y="210" class="detail">Trusted conversation</text>
+    <text x="34" y="242" class="detail">Chats · calls · Circles · Moments</text>
   </g>
 
-  <!-- NuaTalks -->
-  <g transform="translate(380 520)">
-    <rect width="260" height="390" rx="8" fill="#FFFFFF"/>
-    <rect x="28" y="28" width="204" height="204" rx="8" fill="#0B1216"/>
-    <path transform="translate(48 48) scale(1.28)" d="M24 104V39c0-10 12-15 19-8l8 8c8-9 19-14 31-14 23 0 40 18 40 42v37h-22V67c0-12-8-21-19-21-12 0-21 9-21 22v36H24Z" fill="#F6F3EC"/>
-    <g fill="none" stroke="#43B8E8" stroke-width="7" stroke-linecap="round"><path d="M113 125h58"/><path d="M125 143h46"/></g>
-    <circle cx="112" cy="143" r="5" fill="#FF6B5E"/>
-    <text x="28" y="290" class="name"><tspan class="nua">Nua</tspan><tspan class="product">Talks</tspan></text>
-    <text x="28" y="326" class="role">Private conversation</text>
-    <text x="28" y="354" class="role">Exchange + reply</text>
+  <g transform="translate(1080 292)" filter="url(#shadow)">
+    <rect width="440" height="288" rx="24" fill="#fff"/>
+    <rect width="7" height="288" rx="4" fill="#f2a500"/>
+    <image href="../assets/brand/nuainforms-mark.svg" x="34" y="40" width="104" height="104"/>
+    <text x="165" y="72" class="role" fill="#b47900">UNDERSTANDING</text>
+    <text x="165" y="116" class="name">NuaInforms</text>
+    <line x1="34" y1="174" x2="406" y2="174" class="rule"/>
+    <text x="34" y="210" class="detail">Evidence into clarity</text>
+    <text x="34" y="242" class="detail">Sources · context · explanation</text>
   </g>
 
-  <!-- NuaConnects -->
-  <g transform="translate(670 520)">
-    <rect width="260" height="390" rx="8" fill="#FFFFFF"/>
-    <rect x="28" y="28" width="204" height="204" rx="8" fill="#0B1216"/>
-    <path transform="translate(48 48) scale(1.28)" d="M24 104V39c0-10 12-15 19-8l8 8c8-9 19-14 31-14 23 0 40 18 40 42v37h-22V67c0-12-8-21-19-21-12 0-21 9-21 22v36H24Z" fill="#F6F3EC"/>
-    <g stroke="#18C998" stroke-width="5" fill="none"><path d="M118 148 143 126l29 24"/></g>
-    <circle cx="118" cy="148" r="8" fill="#43B8E8"/><circle cx="143" cy="126" r="8" fill="#18C998"/><circle cx="172" cy="150" r="8" fill="#FF6B5E"/>
-    <text x="28" y="290" class="name"><tspan class="nua">Nua</tspan><tspan class="product">Connects</tspan></text>
-    <text x="28" y="326" class="role">Trusted circles</text>
-    <text x="28" y="354" class="role">People + connection</text>
+  <g transform="translate(80 630)" filter="url(#shadow)">
+    <rect width="440" height="288" rx="24" fill="#fff"/>
+    <rect width="7" height="288" rx="4" fill="#3f9a3b"/>
+    <image href="../assets/brand/nuacares-mark.svg" x="34" y="40" width="104" height="104"/>
+    <text x="165" y="72" class="role" fill="#318c32">SUPPORT</text>
+    <text x="165" y="116" class="name">NuaCares</text>
+    <line x1="34" y1="174" x2="406" y2="174" class="rule"/>
+    <text x="34" y="210" class="detail">Consent-led wellbeing</text>
+    <text x="34" y="242" class="detail">Care · reassurance · human choice</text>
   </g>
 
-  <!-- NuaInforms -->
-  <g transform="translate(960 520)">
-    <rect width="260" height="390" rx="8" fill="#FFFFFF"/>
-    <rect x="28" y="28" width="204" height="204" rx="8" fill="#0B1216"/>
-    <path transform="translate(48 48) scale(1.28)" d="M24 104V39c0-10 12-15 19-8l8 8c8-9 19-14 31-14 23 0 40 18 40 42v37h-22V67c0-12-8-21-19-21-12 0-21 9-21 22v36H24Z" fill="#F6F3EC"/>
-    <circle cx="115" cy="125" r="7" fill="#F5C451"/>
-    <g stroke="#F5C451" stroke-width="6" stroke-linecap="round"><path d="M132 125h40"/><path d="M115 143h57"/><path d="M115 160h42"/></g>
-    <text x="28" y="290" class="name"><tspan class="nua">Nua</tspan><tspan class="product">Informs</tspan></text>
-    <text x="28" y="326" class="role">Relevant information</text>
-    <text x="28" y="354" class="role">Source + evidence lines</text>
+  <g transform="translate(580 630)" filter="url(#shadow)">
+    <rect width="440" height="288" rx="24" fill="#fff"/>
+    <rect width="7" height="288" rx="4" fill="#e80958"/>
+    <image href="../assets/brand/nuacreates-mark.svg" x="34" y="40" width="104" height="104"/>
+    <text x="165" y="72" class="role" fill="#e80958">CREATION</text>
+    <text x="165" y="116" class="name">NuaCreates</text>
+    <line x1="34" y1="174" x2="406" y2="174" class="rule"/>
+    <text x="34" y="210" class="detail">Ideas into finished work</text>
+    <text x="34" y="242" class="detail">Writing · visual · production</text>
   </g>
 
-  <!-- NuaCares -->
-  <g transform="translate(1250 520)">
-    <rect width="260" height="390" rx="8" fill="#FFFFFF"/>
-    <rect x="28" y="28" width="204" height="204" rx="8" fill="#0B1216"/>
-    <path transform="translate(48 48) scale(1.28)" d="M24 104V39c0-10 12-15 19-8l8 8c8-9 19-14 31-14 23 0 40 18 40 42v37h-22V67c0-12-8-21-19-21-12 0-21 9-21 22v36H24Z" fill="#F6F3EC"/>
-    <circle cx="135" cy="125" r="10" fill="#FF6B5E"/>
-    <path d="M113 157c10-20 34-21 48-6" fill="none" stroke="#FF6B5E" stroke-width="8" stroke-linecap="round"/>
-    <path d="m153 145 8 7 13-17" fill="none" stroke="#18C998" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="28" y="290" class="name"><tspan class="nua">Nua</tspan><tspan class="product">Cares</tspan></text>
-    <text x="28" y="326" class="role">Consent-led support</text>
-    <text x="28" y="354" class="role">Person + calm check</text>
+  <g transform="translate(1080 630)" filter="url(#shadow)">
+    <rect width="440" height="288" rx="24" fill="#fff"/>
+    <rect width="7" height="288" rx="4" fill="#17457c"/>
+    <image href="../assets/brand/nuainvests-mark.svg" x="34" y="40" width="104" height="104"/>
+    <text x="165" y="72" class="role" fill="#17457c">GROWTH</text>
+    <text x="165" y="116" class="name">NuaInvests</text>
+    <line x1="34" y1="174" x2="406" y2="174" class="rule"/>
+    <text x="34" y="210" class="detail">Governed financial understanding</text>
+    <text x="34" y="242" class="detail">Insight · evidence · boundaries</text>
   </g>
 
-  <text x="90" y="980" class="sub">Recommendation: ship this family grammar; refine optical curves before store production.</text>
+  <text x="80" y="990" class="lead">Shared identity is not shared access.</text>
 </svg>

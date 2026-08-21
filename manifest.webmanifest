@@ -1,0 +1,24 @@
+{
+  "id": "/",
+  "name": "NuaHome — household intelligence",
+  "short_name": "NuaHome",
+  "description": "Calm, consent-led intelligence for the life of a home.",
+  "lang": "en-GB",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#fbfaf6",
+  "theme_color": "#092f38",
+  "icons": [
+    {
+      "src": "/assets/brand/nuahome-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/brand/nuahome-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
